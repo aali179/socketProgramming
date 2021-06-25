@@ -23,4 +23,4 @@ The server program which receives the datagram from the socket and verifies the 
 
 `python3 PacketSender.py`
 
-3. Enter the server IP address and payload. The packet verfication results will be displayed in the first terminal. 
+3. Enter the server IP address and payload. The server socket is hardcoded to run on 192.168.2.88 and port 6000. The packet verfication results will be displayed in the first terminal. 
